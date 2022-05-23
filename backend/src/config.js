@@ -11,6 +11,7 @@ const namePrefix = "CRYPTO8POOL INVESTORS COLLECTION";
 const description = "OWN AT LEAST ONE NFT OF CRYPTO8POOL INVESTORS COLLECTION MAKE YOU A FIRST CLASS INVESTORS";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
+
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
@@ -22,6 +23,8 @@ const layerConfigurations = [
     ],
   },
 ];
+
+
 
 const shuffleLayerConfigurations = true;
 
