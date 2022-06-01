@@ -32,9 +32,9 @@ const shuffleLayerConfigurations = true;
 const debugLogs = false;
 
 const format = {
-  width: 1500,
-  height: 1500,
-  smoothing: false,
+  width: 3508,
+  height: 3508,
+  smoothing: true,
 };
 
 const extraMetadata = {
